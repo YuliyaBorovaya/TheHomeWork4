@@ -1,0 +1,15 @@
+D:\Обучение Питон\Язык программирования C#\Лекция 4\HomeWork4\Task25\obj\Debug\net6.0\Task25.csproj.AssemblyReference.cache
+D:\Обучение Питон\Язык программирования C#\Лекция 4\HomeWork4\Task25\obj\Debug\net6.0\Task25.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение Питон\Язык программирования C#\Лекция 4\HomeWork4\Task25\obj\Debug\net6.0\Task25.AssemblyInfoInputs.cache
+D:\Обучение Питон\Язык программирования C#\Лекция 4\HomeWork4\Task25\obj\Debug\net6.0\Task25.AssemblyInfo.cs
+D:\Обучение Питон\Язык программирования C#\Лекция 4\HomeWork4\Task25\obj\Debug\net6.0\Task25.csproj.CoreCompileInputs.cache
+D:\Обучение Питон\Язык программирования C#\Лекция 4\HomeWork4\Task25\bin\Debug\net6.0\Task25.exe
+D:\Обучение Питон\Язык программирования C#\Лекция 4\HomeWork4\Task25\bin\Debug\net6.0\Task25.deps.json
+D:\Обучение Питон\Язык программирования C#\Лекция 4\HomeWork4\Task25\bin\Debug\net6.0\Task25.runtimeconfig.json
+D:\Обучение Питон\Язык программирования C#\Лекция 4\HomeWork4\Task25\bin\Debug\net6.0\Task25.dll
+D:\Обучение Питон\Язык программирования C#\Лекция 4\HomeWork4\Task25\bin\Debug\net6.0\Task25.pdb
+D:\Обучение Питон\Язык программирования C#\Лекция 4\HomeWork4\Task25\obj\Debug\net6.0\Task25.dll
+D:\Обучение Питон\Язык программирования C#\Лекция 4\HomeWork4\Task25\obj\Debug\net6.0\refint\Task25.dll
+D:\Обучение Питон\Язык программирования C#\Лекция 4\HomeWork4\Task25\obj\Debug\net6.0\Task25.pdb
+D:\Обучение Питон\Язык программирования C#\Лекция 4\HomeWork4\Task25\obj\Debug\net6.0\Task25.genruntimeconfig.cache
+D:\Обучение Питон\Язык программирования C#\Лекция 4\HomeWork4\Task25\obj\Debug\net6.0\ref\Task25.dll

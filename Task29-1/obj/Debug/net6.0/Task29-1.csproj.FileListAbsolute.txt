@@ -1,0 +1,15 @@
+D:\Обучение Питон\Язык программирования C#\Лекция 4\HomeWork4\Task29-1\obj\Debug\net6.0\Task29-1.csproj.AssemblyReference.cache
+D:\Обучение Питон\Язык программирования C#\Лекция 4\HomeWork4\Task29-1\obj\Debug\net6.0\Task29-1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение Питон\Язык программирования C#\Лекция 4\HomeWork4\Task29-1\obj\Debug\net6.0\Task29-1.AssemblyInfoInputs.cache
+D:\Обучение Питон\Язык программирования C#\Лекция 4\HomeWork4\Task29-1\obj\Debug\net6.0\Task29-1.AssemblyInfo.cs
+D:\Обучение Питон\Язык программирования C#\Лекция 4\HomeWork4\Task29-1\obj\Debug\net6.0\Task29-1.csproj.CoreCompileInputs.cache
+D:\Обучение Питон\Язык программирования C#\Лекция 4\HomeWork4\Task29-1\bin\Debug\net6.0\Task29-1.exe
+D:\Обучение Питон\Язык программирования C#\Лекция 4\HomeWork4\Task29-1\bin\Debug\net6.0\Task29-1.deps.json
+D:\Обучение Питон\Язык программирования C#\Лекция 4\HomeWork4\Task29-1\bin\Debug\net6.0\Task29-1.runtimeconfig.json
+D:\Обучение Питон\Язык программирования C#\Лекция 4\HomeWork4\Task29-1\bin\Debug\net6.0\Task29-1.dll
+D:\Обучение Питон\Язык программирования C#\Лекция 4\HomeWork4\Task29-1\bin\Debug\net6.0\Task29-1.pdb
+D:\Обучение Питон\Язык программирования C#\Лекция 4\HomeWork4\Task29-1\obj\Debug\net6.0\Task29-1.dll
+D:\Обучение Питон\Язык программирования C#\Лекция 4\HomeWork4\Task29-1\obj\Debug\net6.0\refint\Task29-1.dll
+D:\Обучение Питон\Язык программирования C#\Лекция 4\HomeWork4\Task29-1\obj\Debug\net6.0\Task29-1.pdb
+D:\Обучение Питон\Язык программирования C#\Лекция 4\HomeWork4\Task29-1\obj\Debug\net6.0\Task29-1.genruntimeconfig.cache
+D:\Обучение Питон\Язык программирования C#\Лекция 4\HomeWork4\Task29-1\obj\Debug\net6.0\ref\Task29-1.dll
